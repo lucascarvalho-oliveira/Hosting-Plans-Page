@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+  </a>
+</p>
+
 # MyServer – Página de Planos de Hospedagem
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
@@ -20,11 +26,11 @@ https://lucascarvalho-oliveira.github.io/planos.html
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3**
-- **Google Fonts**
-- **Flexbox**
-- **Responsividade (Media Queries)**
+- HTML5
+- CSS3
+- Google Fonts
+- Flexbox
+- Responsividade (Media Queries)
 
 ---
 
@@ -54,26 +60,11 @@ git clone https://github.com/lucascarvalho-oliveira/planos.html.git
 ## Demonstração
 ![Tela de Planos](IMG/Projeto_final.jpeg)
 
-## Análise Crítica
-**Pontos Fortes:**
-- Código organizado e fácil de manter
-- Estrutura semântica adequada
-- Responsividade bem implementada
-- Estilo limpo e visual profissional
-
-**Possíveis Melhorias Futuras:**
-- IAdicionar interatividade usando JavaScript
-- Criar um arquivo JSON para armazenar os planos e gerar o conteúdo dinamicamente.
-
 ## Conclusão
 O projeto MyServer cumpre seu objetivo de apresentar planos de hospedagem de forma profissional e responsiva.
 Ele demonstra domínio das bases de HTML e CSS, e pode servir como projeto de portfólio para iniciantes na área de desenvolvimento web.
 
 Com pequenas expansões — como interatividade em JavaScript e integração com back-end — ele pode evoluir para um site comercial completo.
-
-## Licença
-**Autor:** Lucas Carvalho de Jesus Oliveira <br>
-Email: lucascarvalhoptc06@gmail.com
 
 
 
