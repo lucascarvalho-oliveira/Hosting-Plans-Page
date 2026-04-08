@@ -20,7 +20,7 @@ O objetivo é simular uma **landing page comercial**, exibindo três planos com 
 Desenvolvido com **HTML e CSS puro**, priorizando organização, semântica e responsividade.
 
 **Acesse a versão publicada:**  
-https://lucascarvalho-oliveira.github.io/planos.html
+https://lucascarvalho-oliveira.github.io/Hosting-Plans-Page
 
 ---
 
