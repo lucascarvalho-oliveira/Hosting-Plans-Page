@@ -39,7 +39,7 @@ https://lucascarvalho-oliveira.github.io/planos.html
 Clone o repositório:
 
 ```bash
-git clone https://github.com/lucascarvalho-oliveira/planos.html.git
+git clone https://github.com/lucascarvalho-oliveira/Hosting-Plans-Page.html.git
    ```
 
 2. **Abra o arquivo HTML no navegador**
